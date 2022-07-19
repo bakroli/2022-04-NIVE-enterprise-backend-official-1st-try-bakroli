@@ -1,0 +1,1 @@
+docker run --rm --name factory -d -p 8080:8080 factory
